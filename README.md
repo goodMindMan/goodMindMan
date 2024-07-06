@@ -1,3 +1,5 @@
-data - optimization - business excellence 
-writes: python, mySQL
-working on: C, rust, mojo
+# goodMindMan
+
+- Does: data - optimization - business excellence 
+- Writes: python, mySQL
+-  Learning: C, rust, mojo
