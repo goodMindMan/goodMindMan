@@ -2,4 +2,4 @@
 
 - Does: data - optimization - business excellence 
 - Writes: python, mySQL
--  Learning: C, rust, mojo cus y NOT!!!!
+-  Learning: C, (rust or go), mojo cus y NOT!!!!
