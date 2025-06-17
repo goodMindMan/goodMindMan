@@ -1,5 +1,4 @@
 # goodMindMan
 
-- Does: data - optimization - business excellence 
-- Writes: python, mySQL
--  Learning: C, (rust or go), mojo cus y not.
+- Interests: Operations Research - Supply Chain management and Political/Economic Theroy
+
