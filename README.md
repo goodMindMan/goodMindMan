@@ -1,4 +1,4 @@
 # goodMindMan
 
-- Interests: Operations Research - Supply Chain management and Political/Economic Theroy
+- Interests: Operations Research - Supply Chain management - Political/Economic Theroy
 
